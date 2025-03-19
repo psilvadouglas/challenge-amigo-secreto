@@ -32,7 +32,6 @@ amigo-secreto/
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
-    <li>Google Fonts</li>
 </ul>
 
 <h2>Limitações</h2>
